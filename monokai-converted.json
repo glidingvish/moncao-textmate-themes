@@ -1,5 +1,5 @@
 {
-    "inherit": true,
+    "inherit": false,
     "base": "vs-dark",
     "colors": {
         "dropdown.background": "#414339",
